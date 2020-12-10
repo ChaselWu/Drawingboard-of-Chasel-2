@@ -149,6 +149,9 @@
     <ClInclude Include="mod1.h" />
     <ClInclude Include="mod2.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="readme.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
